@@ -1,8 +1,0 @@
-modules = ["nodejs-20"]
-[nix]
-channel = "stable-24_05"
-packages = ["unzip"]
-
-[[ports]]
-localPort = 5000
-externalPort = 80

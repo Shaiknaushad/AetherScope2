@@ -1,6 +1,0 @@
-[dotenv@17.2.0] injecting env (3) from .env (tip: 🔐 encrypt with dotenvx: https://dotenvx.com)
-[dotenv@17.2.0] injecting env (0) from .env (tip: ⚙️  override existing env vars with { override: true })
-11:08:30 PM [express] serving on port 5000
-Fetching triplets from Supabase...
-Found 75 triplets
-11:08:34 PM [express] GET /api/triplets 200 in 1182ms :: [{"id":"71761257-74b8-4608-b74f-f73a2c84b37a…
